@@ -1,2 +1,2 @@
 # Simple_NN
-Nerual Network Implentation without Tensorflow or Other ML Libraries
+Neural Network Implementation without Tensorflow or Other ML Libraries
